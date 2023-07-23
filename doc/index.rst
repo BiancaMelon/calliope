@@ -11,7 +11,7 @@ v\ |version| (:doc:`Release history <history>`)
 
 ------------
 
-This is the documentation for version |version|. See the `main project website <https://www.callio.pe/>`_ for contact details and other useful information.
+This is the documtation for version |version|. See the `main project website <https://www.callio.pe/>`_ for contact detils and other useful information.
 
 ------------
 
